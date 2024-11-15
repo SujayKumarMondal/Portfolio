@@ -1,1 +1,1 @@
-<!-- On the terminal run : npx http-server -->
+On the terminal run : npx http-server
